@@ -28,7 +28,7 @@ Or you can run this app locally:
 * install Tomcat 9.0.50
 * fork this project and clone it
 * initialize your database using init_db.sql file located in resources
-* add your database info to ConnectionUtil located in util to be able to connect to your database
+* add your database info to ConnectionUtil
 
 ```java
 public class ConnectionUtil {
